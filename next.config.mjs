@@ -109,7 +109,7 @@ const nextConfig = {
     domains: ["books.google.com"],
     // domains: ["images.unsplash.com"],
   },
-  distDir: "build",
+
   experimental: {
     missingSuspenseWithCSRBailout: false,
   },
